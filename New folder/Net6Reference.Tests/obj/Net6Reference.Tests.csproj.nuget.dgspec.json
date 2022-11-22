@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference.Tests\\Net6Reference.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference.Tests\\Net6Reference.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference.Tests\\Net6Reference.Tests.csproj",
+        "projectName": "Net6Reference.Tests",
+        "projectPath": "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference.Tests\\Net6Reference.Tests.csproj",
+        "packagesPath": "C:\\Users\\DAEN564\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DAEN564\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {
+              "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference\\Net6Reference.csproj": {
+                "projectPath": "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference\\Net6Reference.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference\\Net6Reference.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference\\Net6Reference.csproj",
+        "projectName": "Net6Reference",
+        "projectPath": "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference\\Net6Reference.csproj",
+        "packagesPath": "C:\\Users\\DAEN564\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DAEN564\\Downloads\\be.axa.automation.sdacicd.dotnet.mpi-master\\be.axa.automation.sdacicd.dotnet.mpi-master\\Net6Reference\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DAEN564\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
